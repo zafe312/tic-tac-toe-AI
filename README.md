@@ -4,3 +4,5 @@ This is a simple tic-tac-toe AI which uses minimax algorithm in python. Download
 For windows users see [here](https://www.pygame.org/wiki/GettingStarted) for installation of pygame.
 
 This script uses minimax algorithm without alpha/beta prunning. A pseudocode with nice explanation of the minimax algorithm used can be found [here](https://www.neverstopbuilding.com/blog/minimax). Can you win against the AI?
+
+Click [here](https://drive.google.com/file/d/1h30PflUVT1wxjmkVi7xQfKOsDAUIjaDZ/view?usp=sharing) for video instruction and demo of the game
