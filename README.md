@@ -5,6 +5,6 @@ For windows users see [here](https://www.pygame.org/wiki/GettingStarted) for ins
 
 This script uses minimax algorithm without alpha/beta prunning. A pseudocode with nice explanation of the minimax algorithm used can be found [here](https://www.neverstopbuilding.com/blog/minimax). Can you win against the AI?
 
-Click [here](https://drive.google.com/file/d/1h30PflUVT1wxjmkVi7xQfKOsDAUIjaDZ/view?usp=sharing) for video instruction and demo of the game
+Click [here](https://drive.google.com/file/d/1vN-AYkRT1ym0_RUTMOT-EEGMbg6kEGG6/view?usp=sharing) for video instruction and demo of the game
 
    ![](game.png)
